@@ -1,3 +1,10 @@
+#   Exercício 1 – Temperatura Média das Capitais dos Clientes
+# 	•	Recupere as cidades dos clientes com mais de 10 transações.
+# 	•	Use a WeatherAPI para buscar a temperatura atual dessas cidades.
+# 	•	Calcule a temperatura média ponderada por número de clientes.
+# 	•	Insight esperado: quais cidades concentram clientes e temperaturas extremas?
+
+
 # importando bibliotecas para o ex1
 import os
 import matplotlib.pyplot as plt
